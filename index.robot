@@ -8,7 +8,3 @@ Library    SeleniumLibrary
 #ky eshte komenti i trete
 #ky eshte kometi i katert
 #kete koment po e shkruaj nga repo
-
-#ky eshte komenti i peste
-
-#ky esht koment tjeter per main
